@@ -1,5 +1,7 @@
 # Lighthouse Labs Midterm Project
 
+A web app that helps groups of friends to vote on a preferred choice (using ranked voting), for example: "What movie should we see next Friday?".
+
 ## Skill Set
 - Javascript
 - jQuery
@@ -29,3 +31,7 @@
 
 - Node 5.10.x or above
 - NPM 3.8.x or above
+
+## Screenshot
+
+![Screenshot](screenshot.png)
