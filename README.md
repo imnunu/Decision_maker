@@ -1,5 +1,3 @@
-# Lighthouse Labs Midterm Project
-
 A web app that helps groups of friends to vote on a preferred choice (using ranked voting), for example: "What movie should we see next Friday?".
 
 ## Skill Set
@@ -13,6 +11,10 @@ A web app that helps groups of friends to vote on a preferred choice (using rank
 - PostgreSQL for DB
 - Knex.js
 - git for version control
+
+## Screenshot
+
+![Screenshot](screenshot.png)
 
 ## Getting Started
 
@@ -32,6 +34,4 @@ A web app that helps groups of friends to vote on a preferred choice (using rank
 - Node 5.10.x or above
 - NPM 3.8.x or above
 
-## Screenshot
-
-![Screenshot](screenshot.png)
+## Lighthouse Labs Midterm Project
