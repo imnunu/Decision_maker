@@ -1,5 +1,17 @@
 # Lighthouse Labs Midterm Project
 
+## Skill Set
+- Javascript
+- jQuery
+- Express
+- AJAX
+- Node
+- Bootstrap
+- SASS for styling
+- PostgreSQL for DB
+- Knex.js
+- git for version control
+
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
